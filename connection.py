@@ -21,7 +21,7 @@ from IPython.display import display, clear_output
 # In[1]:
 
 # Database credentials
-db_url = "postgres://tsdbadmin:TigerTe4mUn1te@jb4cnq3gyf.jj7sbwx9ng.tsdb.cloud.timescale.com:33159/tsdb?sslmode=require"
+db_url = "paste your credentials"
 
 async def fetch_data():
     # Connect to the database
